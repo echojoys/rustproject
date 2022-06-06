@@ -1,0 +1,15 @@
+/Users/echojoy/Documents/GitHub/rustproject/scrape_url/target/debug/deps/markup5ever-3a3ad40b617af98c.rmeta: /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs /Users/echojoy/Documents/GitHub/rustproject/scrape_url/target/debug/build/markup5ever-4b242c249b7da255/out/generated.rs /Users/echojoy/Documents/GitHub/rustproject/scrape_url/target/debug/build/markup5ever-4b242c249b7da255/out/named_entities.rs
+
+/Users/echojoy/Documents/GitHub/rustproject/scrape_url/target/debug/deps/markup5ever-3a3ad40b617af98c.d: /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs /Users/echojoy/Documents/GitHub/rustproject/scrape_url/target/debug/build/markup5ever-4b242c249b7da255/out/generated.rs /Users/echojoy/Documents/GitHub/rustproject/scrape_url/target/debug/build/markup5ever-4b242c249b7da255/out/named_entities.rs
+
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs:
+/Users/echojoy/Documents/GitHub/rustproject/scrape_url/target/debug/build/markup5ever-4b242c249b7da255/out/generated.rs:
+/Users/echojoy/Documents/GitHub/rustproject/scrape_url/target/debug/build/markup5ever-4b242c249b7da255/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/Users/echojoy/Documents/GitHub/rustproject/scrape_url/target/debug/build/markup5ever-4b242c249b7da255/out
