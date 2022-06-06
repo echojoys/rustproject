@@ -1,0 +1,13 @@
+/Users/echojoy/Documents/GitHub/rustproject/httpie/target/debug/deps/tracing-bef6907f000fe92b.rmeta: /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/lib.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/macros.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/dispatcher.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/field.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/instrument.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/level_filters.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/span.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/stdlib.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/subscriber.rs
+
+/Users/echojoy/Documents/GitHub/rustproject/httpie/target/debug/deps/tracing-bef6907f000fe92b.d: /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/lib.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/macros.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/dispatcher.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/field.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/instrument.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/level_filters.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/span.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/stdlib.rs /Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/subscriber.rs
+
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/lib.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/macros.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/dispatcher.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/field.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/instrument.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/level_filters.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/span.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/stdlib.rs:
+/Users/echojoy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/subscriber.rs:
